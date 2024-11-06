@@ -1,1 +1,1 @@
-# ReinforcementLearning Reward Shaping Project
+# Reinforcement Learning Reward Shaping Project
