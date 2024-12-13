@@ -69,5 +69,7 @@ Four particular functions that we found useful are implemented in multiwalker_ba
 # Result
 1. The result models are within:
     result_models.rar
+2. The playable videos for respective models are in:
+    model_videos.zip
 
 
