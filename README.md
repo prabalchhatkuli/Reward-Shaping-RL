@@ -10,7 +10,10 @@ This repository contains code and documentation for a project aimed at improving
     Script used to train a reinforcement learning model within the Multiwalker environment using the reward shaping methods.
 3. evaluate.py
     Script for evaluating the performance of a trained model. This evaluates how far the package can be carried to, which can also be regarded as a distance between current policy and the optimal policy.
-
+4. ams691_projectReport_group3.pdf
+    A written report describing our work.
+5. ams691_projectReport_supplement_group3.pdf
+    A written supplement providing quick references to seminal work in reward shaping.
 
 
 # Requirments
